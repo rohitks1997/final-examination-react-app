@@ -1,0 +1,7 @@
+[
+    {"Name":"Rohit","Phone":"0922705577","Arrival":"7:30PM","Departure": "9:00PM", "Reason":"Full Parking Space", "CreatedAt":"12-02-2021"},
+    {"Name":"Mary","Phone":"08433242221","Arrival":"5:30PM","Departure": "6:00PM", "Reason":"To go to the hospital", "CreatedAt":"19-02-2021"},
+    {"Name":"John","Phone":"09344421653","Arrival":"4:30PM","Departure": "6:00PM", "Reason":"Full Parking Space", "CreatedAt":"26-02-2021"},
+    {"Name":"Ritika","Phone":"083941432","Arrival":"3:30PM","Departure": "5:00PM", "Reason":"Less Room for parking", "CreatedAt":"5-03-2021"},
+    {"Name":"Peter","Phone":"0946331531","Arrival":"6:30PM","Departure": "7:30PM", "Reason":"Full Parking Space", "CreatedAt":"12-03-2021"}
+]
